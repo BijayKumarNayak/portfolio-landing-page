@@ -15,7 +15,7 @@ const Navbar = () => {
           </div>
 
           {/* Menu Items */}
-          <div className="items-center space-x-4 md:flex">
+          <div className="items-center space-x-4 md:flex hidden">
             <Link
               to="home"
               className="px-2 py-1 font-semibold text-white rounded-md cursor-pointer hover:bg-gradient-to-r from-red-400 via-red-500 to-red-600"
