@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "title": "UI Design",
+      "description": " Lorem ipsum dolor sit amet consectetur.",
+      "icon": "MdDesignServices"
+    },
+    {
+      "id": 2,
+      "title": "Product Design",
+      "description": " Lorem ipsum dolor sit amet consectetur.",
+      "icon": "AiOutlineProduct"
+    },
+    {
+      "id": 3,
+      "title": "Branding",
+      "description": " Lorem ipsum dolor sit amet consectetur.",
+      "icon": "TbBrandAdobe"
+    }
+  ],
+  "works": [
+    {
+      "id": 1,
+      "title": "The Studio",
+      "image": "/images/image1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Business",
+      "image": "/images/image2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Newsletter",
+      "image": "/images/image3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Tech Fair",
+      "image": "/images/image4.jpg"
+    }
+  ]
+}
